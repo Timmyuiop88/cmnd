@@ -69,7 +69,7 @@ const YOUR_TOOL_NAME = {
 };
 
 // Add your tool object to the tools array (assuming it exists)
-const tools = [YOUR_TOOL_NAME, YOUR_OTHER_TOOL_NAME];
+const tools = [YOUR_TOOL_NAME, YOUR_OTHER_TOOL_NAME]; //if you have other tools
 module.exports = tools; // Export the tool object
 ```
 
